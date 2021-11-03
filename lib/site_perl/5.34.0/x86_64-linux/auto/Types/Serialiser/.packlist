@@ -1,0 +1,4 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/Types/Serialiser.pm relocate_as=../../../../Types/Serialiser.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Types/Serialiser/Error.pm relocate_as=../../../../Types/Serialiser/Error.pm
+/run/user/1094401/perl/man/man3/Types::Serialiser.3 relocate_as=../../../../../../../man/man3/Types::Serialiser.3
+/run/user/1094401/perl/man/man3/Types::Serialiser::Error.3 relocate_as=../../../../../../../man/man3/Types::Serialiser::Error.3

@@ -1,0 +1,7 @@
+/run/user/1094401/perl/bin/json_xs relocate_as=../../../../../../../bin/json_xs
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/JSON/XS.pm relocate_as=../../../JSON/XS.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/JSON/XS/Boolean.pm relocate_as=../../../JSON/XS/Boolean.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/auto/JSON/XS/XS.so relocate_as=XS.so
+/run/user/1094401/perl/man/man1/json_xs.1 relocate_as=../../../../../../../man/man1/json_xs.1
+/run/user/1094401/perl/man/man3/JSON::XS.3 relocate_as=../../../../../../../man/man3/JSON::XS.3
+/run/user/1094401/perl/man/man3/JSON::XS::Boolean.3 relocate_as=../../../../../../../man/man3/JSON::XS::Boolean.3
