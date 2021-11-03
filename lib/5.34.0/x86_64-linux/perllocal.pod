@@ -86,3 +86,25 @@ C<EXE_FILES: bin/json_xs>
 
 =back
 
+=head2 Wed Nov  3 03:17:22 2021: C<Module> L<Mojolicious|Mojolicious>
+
+=over 4
+
+=item *
+
+C<installed into: /run/user/1094401/perl/lib/site_perl/5.34.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 9.22>
+
+=item *
+
+C<EXE_FILES: script/hypnotoad script/mojo script/morbo>
+
+=back
+
