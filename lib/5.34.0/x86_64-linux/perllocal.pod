@@ -108,3 +108,25 @@ C<EXE_FILES: script/hypnotoad script/mojo script/morbo>
 
 =back
 
+=head2 Sat Nov  6 05:50:17 2021: C<Module> L<Time::ParseDate|Time::ParseDate>
+
+=over 4
+
+=item *
+
+C<installed into: /run/user/1094401/perl/lib/site_perl/5.34.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2015.103>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
