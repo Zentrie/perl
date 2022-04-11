@@ -1,0 +1,2 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/Test/Differences.pm relocate_as=../../../../Test/Differences.pm
+/run/user/1094401/perl/man/man3/Test::Differences.3 relocate_as=../../../../../../../man/man3/Test::Differences.3

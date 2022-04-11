@@ -1,0 +1,7 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Time/Moment.pm relocate_as=../../../Time/Moment.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Time/Moment.pod relocate_as=../../../Time/Moment.pod
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Time/Moment/Adjusters.pm relocate_as=../../../Time/Moment/Adjusters.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Time/Moment/Adjusters.pod relocate_as=../../../Time/Moment/Adjusters.pod
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/auto/Time/Moment/Moment.so relocate_as=Moment.so
+/run/user/1094401/perl/man/man3/Time::Moment.3 relocate_as=../../../../../../../man/man3/Time::Moment.3
+/run/user/1094401/perl/man/man3/Time::Moment::Adjusters.3 relocate_as=../../../../../../../man/man3/Time::Moment::Adjusters.3

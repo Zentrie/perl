@@ -1,0 +1,2 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/Try/Tiny.pm relocate_as=../../../../Try/Tiny.pm
+/run/user/1094401/perl/man/man3/Try::Tiny.3 relocate_as=../../../../../../../man/man3/Try::Tiny.3

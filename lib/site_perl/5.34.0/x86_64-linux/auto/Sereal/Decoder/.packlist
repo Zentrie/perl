@@ -1,0 +1,6 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Sereal/Decoder.pm relocate_as=../../../Sereal/Decoder.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Sereal/Decoder/Constants.pm relocate_as=../../../Sereal/Decoder/Constants.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Sereal/Performance.pm relocate_as=../../../Sereal/Performance.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/auto/Sereal/Decoder/Decoder.so relocate_as=Decoder.so
+/run/user/1094401/perl/man/man3/Sereal::Decoder.3 relocate_as=../../../../../../../man/man3/Sereal::Decoder.3
+/run/user/1094401/perl/man/man3/Sereal::Performance.3 relocate_as=../../../../../../../man/man3/Sereal::Performance.3

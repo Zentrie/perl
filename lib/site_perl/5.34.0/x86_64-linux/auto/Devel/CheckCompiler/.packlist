@@ -1,0 +1,4 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/Devel/AssertC99.pm relocate_as=../../../../Devel/AssertC99.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Devel/CheckCompiler.pm relocate_as=../../../../Devel/CheckCompiler.pm
+/run/user/1094401/perl/man/man3/Devel::AssertC99.3 relocate_as=../../../../../../../man/man3/Devel::AssertC99.3
+/run/user/1094401/perl/man/man3/Devel::CheckCompiler.3 relocate_as=../../../../../../../man/man3/Devel::CheckCompiler.3

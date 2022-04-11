@@ -1,0 +1,2 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/Math/BaseCalc.pm relocate_as=../../../../Math/BaseCalc.pm
+/run/user/1094401/perl/man/man3/Math::BaseCalc.3 relocate_as=../../../../../../../man/man3/Math::BaseCalc.3

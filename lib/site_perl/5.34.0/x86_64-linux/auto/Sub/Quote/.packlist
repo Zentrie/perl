@@ -1,0 +1,4 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/Sub/Defer.pm relocate_as=../../../../Sub/Defer.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Sub/Quote.pm relocate_as=../../../../Sub/Quote.pm
+/run/user/1094401/perl/man/man3/Sub::Defer.3 relocate_as=../../../../../../../man/man3/Sub::Defer.3
+/run/user/1094401/perl/man/man3/Sub::Quote.3 relocate_as=../../../../../../../man/man3/Sub::Quote.3

@@ -1,0 +1,16 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/Method/Generate/Accessor.pm relocate_as=../../../Method/Generate/Accessor.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Method/Generate/BuildAll.pm relocate_as=../../../Method/Generate/BuildAll.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Method/Generate/Constructor.pm relocate_as=../../../Method/Generate/Constructor.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Method/Generate/DemolishAll.pm relocate_as=../../../Method/Generate/DemolishAll.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Moo.pm relocate_as=../../../Moo.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Moo/HandleMoose.pm relocate_as=../../../Moo/HandleMoose.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Moo/HandleMoose/FakeMetaClass.pm relocate_as=../../../Moo/HandleMoose/FakeMetaClass.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Moo/HandleMoose/_TypeMap.pm relocate_as=../../../Moo/HandleMoose/_TypeMap.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Moo/Object.pm relocate_as=../../../Moo/Object.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Moo/Role.pm relocate_as=../../../Moo/Role.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Moo/_Utils.pm relocate_as=../../../Moo/_Utils.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Moo/sification.pm relocate_as=../../../Moo/sification.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/oo.pm relocate_as=../../../oo.pm
+/run/user/1094401/perl/man/man3/Moo.3 relocate_as=../../../../../../man/man3/Moo.3
+/run/user/1094401/perl/man/man3/Moo::Role.3 relocate_as=../../../../../../man/man3/Moo::Role.3
+/run/user/1094401/perl/man/man3/oo.3 relocate_as=../../../../../../man/man3/oo.3

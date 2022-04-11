@@ -1,0 +1,4 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/Parallel/ForkManager.pm relocate_as=../../../../Parallel/ForkManager.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Parallel/ForkManager/Child.pm relocate_as=../../../../Parallel/ForkManager/Child.pm
+/run/user/1094401/perl/man/man3/Parallel::ForkManager.3 relocate_as=../../../../../../../man/man3/Parallel::ForkManager.3
+/run/user/1094401/perl/man/man3/Parallel::ForkManager::Child.3 relocate_as=../../../../../../../man/man3/Parallel::ForkManager::Child.3

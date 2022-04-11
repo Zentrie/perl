@@ -1,0 +1,4 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/Algorithm/Diff.pm relocate_as=../../../../Algorithm/Diff.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/Algorithm/DiffOld.pm relocate_as=../../../../Algorithm/DiffOld.pm
+/run/user/1094401/perl/man/man3/Algorithm::Diff.3 relocate_as=../../../../../../../man/man3/Algorithm::Diff.3
+/run/user/1094401/perl/man/man3/Algorithm::DiffOld.3 relocate_as=../../../../../../../man/man3/Algorithm::DiffOld.3

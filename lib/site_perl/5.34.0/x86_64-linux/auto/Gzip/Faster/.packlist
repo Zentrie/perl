@@ -1,0 +1,4 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Gzip/Faster.pm relocate_as=../../../Gzip/Faster.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Gzip/Faster.pod relocate_as=../../../Gzip/Faster.pod
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/auto/Gzip/Faster/Faster.so relocate_as=Faster.so
+/run/user/1094401/perl/man/man3/Gzip::Faster.3 relocate_as=../../../../../../../man/man3/Gzip::Faster.3

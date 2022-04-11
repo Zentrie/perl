@@ -1,0 +1,2 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/Test/FailWarnings.pm relocate_as=../../../../Test/FailWarnings.pm
+/run/user/1094401/perl/man/man3/Test::FailWarnings.3 relocate_as=../../../../../../../man/man3/Test::FailWarnings.3

@@ -1,0 +1,4 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Sereal/Encoder.pm relocate_as=../../../Sereal/Encoder.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Sereal/Encoder/Constants.pm relocate_as=../../../Sereal/Encoder/Constants.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/auto/Sereal/Encoder/Encoder.so relocate_as=Encoder.so
+/run/user/1094401/perl/man/man3/Sereal::Encoder.3 relocate_as=../../../../../../../man/man3/Sereal::Encoder.3

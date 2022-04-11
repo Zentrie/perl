@@ -1,0 +1,4 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Digest/xxHash.pm relocate_as=../../../Digest/xxHash.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/auto/Digest/xxHash/xxHash.bs relocate_as=xxHash.bs
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/auto/Digest/xxHash/xxHash.so relocate_as=xxHash.so
+/run/user/1094401/perl/man/man3/Digest::xxHash.3 relocate_as=../../../../../../../man/man3/Digest::xxHash.3

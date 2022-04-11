@@ -1,0 +1,9 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Math/Int64.pm relocate_as=../../../Math/Int64.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Math/Int64/die_on_overflow.pm relocate_as=../../../Math/Int64/die_on_overflow.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Math/Int64/native_if_available.pm relocate_as=../../../Math/Int64/native_if_available.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Math/UInt64.pm relocate_as=../../../Math/UInt64.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/auto/Math/Int64/Int64.so relocate_as=Int64.so
+/run/user/1094401/perl/man/man3/Math::Int64.3 relocate_as=../../../../../../../man/man3/Math::Int64.3
+/run/user/1094401/perl/man/man3/Math::Int64::die_on_overflow.3 relocate_as=../../../../../../../man/man3/Math::Int64::die_on_overflow.3
+/run/user/1094401/perl/man/man3/Math::Int64::native_if_available.3 relocate_as=../../../../../../../man/man3/Math::Int64::native_if_available.3
+/run/user/1094401/perl/man/man3/Math::UInt64.3 relocate_as=../../../../../../../man/man3/Math::UInt64.3

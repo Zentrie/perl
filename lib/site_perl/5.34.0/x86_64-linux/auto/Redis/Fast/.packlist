@@ -1,0 +1,10 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Redis/Fast.pm relocate_as=../../../Redis/Fast.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Redis/Fast/Hash.pm relocate_as=../../../Redis/Fast/Hash.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Redis/Fast/List.pm relocate_as=../../../Redis/Fast/List.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Redis/Fast/Sentinel.pm relocate_as=../../../Redis/Fast/Sentinel.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/auto/Redis/Fast/Fast.bs relocate_as=Fast.bs
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/auto/Redis/Fast/Fast.so relocate_as=Fast.so
+/run/user/1094401/perl/man/man3/Redis::Fast.3 relocate_as=../../../../../../../man/man3/Redis::Fast.3
+/run/user/1094401/perl/man/man3/Redis::Fast::Hash.3 relocate_as=../../../../../../../man/man3/Redis::Fast::Hash.3
+/run/user/1094401/perl/man/man3/Redis::Fast::List.3 relocate_as=../../../../../../../man/man3/Redis::Fast::List.3
+/run/user/1094401/perl/man/man3/Redis::Fast::Sentinel.3 relocate_as=../../../../../../../man/man3/Redis::Fast::Sentinel.3

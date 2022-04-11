@@ -1,0 +1,9 @@
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/List/Util.pm relocate_as=../../../List/Util.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/List/Util/XS.pm relocate_as=../../../List/Util/XS.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Scalar/Util.pm relocate_as=../../../Scalar/Util.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/Sub/Util.pm relocate_as=../../../Sub/Util.pm
+/run/user/1094401/perl/lib/site_perl/5.34.0/x86_64-linux/auto/List/Util/Util.so relocate_as=Util.so
+/run/user/1094401/perl/man/man3/List::Util.3 relocate_as=../../../../../../../man/man3/List::Util.3
+/run/user/1094401/perl/man/man3/List::Util::XS.3 relocate_as=../../../../../../../man/man3/List::Util::XS.3
+/run/user/1094401/perl/man/man3/Scalar::Util.3 relocate_as=../../../../../../../man/man3/Scalar::Util.3
+/run/user/1094401/perl/man/man3/Sub::Util.3 relocate_as=../../../../../../../man/man3/Sub::Util.3
